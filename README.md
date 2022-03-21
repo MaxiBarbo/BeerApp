@@ -1,2 +1,3 @@
 # BeerApp
-Diseño carrito de compras en React
+Diseño carrito de compras en React :)
+
